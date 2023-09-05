@@ -1,15 +1,10 @@
 # Explore Weather Trends
 
 ## Summary
+In this particular project, I conducted an analysis of temperature data, both locally and globally, and undertook a comparative assessment of temperature trends in Egypt, where I reside, in relation to global temperature trends.
 
-In this project, I analyzed local and global temperature data and compared the temperature trends where I live "Egypt" to overall global temperature trends.
+To access the necessary data, I efficiently extracted temperature data. I gathered temperature records for both worldwide trends and the most significant cities proximate to my location, specifically, Cairo and Alexandria. I proficiently employed SQL for database interaction.
 
+The culmination of this analysis was the creation of a line chart. This chart effectively contrasts temperature trends between Cairo and Alexandria with global temperature patterns. Importantly, I opted to plot moving averages instead of annual averages to enhance the visual representation, smoothing the lines and rendering trends more discernible.
 
-**Extracting the data from the database in Udacity workspace**
-I've exported the temperature data for the world as well as for the closest big cities to where I live, I chose Cairo & Alexandria and to interact with the database I will use SQL.
-
-**Creating a line chart**
-The chart line compares Cairo & Alexandria temperatures with the global temperatures. then plotting the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable.
-
-**Making observations**
-All included in the pdf file, the observations include the similarities and differences between the world averages, Cairo, and Alexandria averages, as well as overall trends. H
+The results of this analysis, along with detailed observations, are encapsulated in a comprehensive PDF report. These observations encompass an in-depth exploration of commonalities and distinctions among global averages, as well as temperature averages for Cairo and Alexandria. Moreover, the report encapsulates overarching temperature trends for a holistic understanding of the data.
